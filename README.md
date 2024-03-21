@@ -23,6 +23,9 @@ Shear the image in both the rows and columns.
 ### Step5:
 Find the reflection of the image.
 
+### step 6:
+Rotate the image using angle function.
+
 ## Program:
 
 ### Developed By: ARSHATHA
